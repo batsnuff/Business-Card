@@ -1,0 +1,11 @@
+.main {
+  border-end-end-radius: 50%;
+  border-end-start-radius: 50%;
+  box-shadow: 0 0 7vw #a0d8b3;
+  display: flex;
+  align-items: center;
+  background: #a2a378;
+  flex-direction: column;
+  background: url(https://th.bing.com/th/id/OIG2.klFxld0zErzjoYb78L6s?pid=ImgGn)
+    no-repeat center/106%;
+}

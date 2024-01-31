@@ -1,0 +1,12 @@
+#arrow {
+  color: crimson;
+  display: inline-block;
+}
+
+#arrow:nth-child(1) {
+  transform: rotate(320deg);
+}
+
+#arrow:nth-child(2) {
+  transform: rotate(130deg);
+}

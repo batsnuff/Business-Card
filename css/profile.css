@@ -1,0 +1,10 @@
+.profile {
+  width: 30vw;
+  height: 30vw;
+  border-radius: 50%;
+  border: solid #a2a378;
+  background: url(https://th.bing.com/th/id/OIG2.MFfnO_DLvDbhnl79hKB1?pid=ImgGn)
+    no-repeat center;
+  background-size: 30vw;
+  box-shadow: 5px 5px 0 #000, 6px 6px 0 #000, 7px 7px 0 #000;
+}
